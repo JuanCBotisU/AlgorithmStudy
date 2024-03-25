@@ -2,7 +2,7 @@
 
 
 //Nos piden encontrar dos nuemros que del una 
-// suma especifica y regresar sus indices dentro del array
+//suma especifica y regresar sus indices dentro del array
 class botis {
     public int[] twoSum(int[] nums, int target) {
         // La primer manera en la que se me ocurrio es probando cada suma posible 
